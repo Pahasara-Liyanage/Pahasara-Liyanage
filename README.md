@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasheen Pahasara Liyanage</h1>
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pahasara-liyanage&label=Profile%20views&color=0e75b6&style=flat" alt="pahasara-liyanage" /> </p>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=pahasara-liyanage&label=Profile%20views&color=0e75b6&style=flat" alt="pahasara-liyanage" /> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <h3><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =30px></picture>  About me </h3>
