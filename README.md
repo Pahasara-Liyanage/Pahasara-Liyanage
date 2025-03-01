@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rasheen Pahasara Liyanage</h1> 
 
+<h1 align="center">Hi 👋, I'm Rasheen Pahasara Liyanage</h1> 
+<br>
+<p align="center">  <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/> </p>
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
-
-
-
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=pahasara-liyanage&label=Profile%20views&color=0e75b6&style=flat" alt="pahasara-liyanage" /> </p>
 
