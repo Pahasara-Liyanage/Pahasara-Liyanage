@@ -3,6 +3,9 @@
 
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
 
+
+
+
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=pahasara-liyanage&label=Profile%20views&color=0e75b6&style=flat" alt="pahasara-liyanage" /> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -34,7 +37,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <h3 align="left"> 
 <img align="left" width=30px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> Languages and Tools:</h3>
