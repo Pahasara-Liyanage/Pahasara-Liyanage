@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rasheen Pahasara Liyanage</h1>
+<h1 align="center">Hi 👋, I'm Rasheen Pahasara Liyanage</h1> 
+
+
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=pahasara-liyanage&label=Profile%20views&color=0e75b6&style=flat" alt="pahasara-liyanage" /> </p>
@@ -32,12 +34,13 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3 align="left"> 
 <img align="left" width=30px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/icons/Netbeans.png" alt="php" width="45" height="45"/> </a>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ Rasheen Pahasara Liyanage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" Rasheen Pahasara Liyanage" /></a></p><br><br>
-
-
+<p><a href="https://www.buymeacoffee.com/ Rasheen Pahasara Liyanage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" Rasheen Pahasara Liyanage" /> 
+</a></p><br><br>
