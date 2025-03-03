@@ -40,7 +40,6 @@
 </p>
 
 
-
 <h3 align="left"> 
 <img align="left" width=30px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/icons/Netbeans.png" alt="php" width="45" height="45"/> </a>
@@ -52,6 +51,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahasara-liyanage&show_icons=true&locale=en&layout=compact" alt="pahasara-liyanage" /></p>
+
+<p align="right" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/835174c4a372c2cea5a16315675e7c1d6bb36e4e9332ca258904a4fda6fa0e5a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44696e754769742d3936382673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/835174c4a372c2cea5a16315675e7c1d6bb36e4e9332ca258904a4fda6fa0e5a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44696e754769742d3936382673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Pahasara-Liyanage;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
+</p>
+
+
 
 
