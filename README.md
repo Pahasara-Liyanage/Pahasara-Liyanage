@@ -52,9 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 
 
-<p align="right" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/835174c4a372c2cea5a16315675e7c1d6bb36e4e9332ca258904a4fda6fa0e5a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44696e754769742d3936382673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/835174c4a372c2cea5a16315675e7c1d6bb36e4e9332ca258904a4fda6fa0e5a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44696e754769742d3936382673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Pahasara-Liyanage;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
-</p>
+
 
 
 
